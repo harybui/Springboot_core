@@ -1,0 +1,14 @@
+# IDE config
+**/.idea/
+**/*.iml
+
+# Build rác
+**/build/
+**/.gradle/
+**/*.class
+**/bin/
+**/out/
+
+# System
+.DS_Store
+Thumbs.db
