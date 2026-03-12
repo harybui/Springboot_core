@@ -1,0 +1,5 @@
+{
+    "java.autobuild.enabled": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 500
+}

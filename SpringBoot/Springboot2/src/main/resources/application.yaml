@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: Springboot2
+  datasource:
+    url: jdbc:mysql://localhost:3306/mydb
+    username: root
+    password: 1234567
+    driver-class-name: com.mysql.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+
+
